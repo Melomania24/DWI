@@ -20,7 +20,9 @@ h1,h2{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: rgb(73, 214, 214);
 }
-
+audio{
+    z-index:-1;
+}
 p{
     color: #e9e9e9;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
